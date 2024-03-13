@@ -1,2 +1,2 @@
 # bookbot
-First project with Boot.Dev
+BookBot is the first guided project in the Boot.Dev courseload.
